@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(103, 183, 248);
+}
+#Comentarios {
+    resize: none;
+}
+.Title { color: blue;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, "Helvetica Neue", Helvetica, sans-serif; }
+.Text {
+    color: blue;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, "Helvetica Neue", Helvetica, sans-serif;
+}
